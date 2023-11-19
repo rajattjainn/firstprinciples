@@ -1,4 +1,4 @@
-# Leet Code Problem 1768: https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75
+# Leet Code Problem 1768: https://leetcode.com/problems/merge-strings-alternately/
 
 def alternate(word1, word2):
     min_len = len(word1) if len(word1) < len(word2) else len(word2)
